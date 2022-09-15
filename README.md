@@ -31,6 +31,7 @@ A project for Software Architecture
   
   ### Tecnica
   
-  * 
+  * Se hara el diseño de la base de datos en MySQL
+  * Se hara el frontend en Angular Version 12
   
  
